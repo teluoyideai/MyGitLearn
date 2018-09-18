@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    //这是clone的人添加的代码
+    //这是clone的人添加的代码啊
     
 }
 
